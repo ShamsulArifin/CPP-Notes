@@ -11,8 +11,12 @@
             "id": "863bbf1f701b9f1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - C++ 20 CheckList/C++ 20.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - C++ 20 CheckList/C++ 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - C++ 20 CheckList/C++ 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - C++ 20 CheckList/C++ 20.md"
+              }
             }
           },
           {
@@ -174,5 +182,7 @@
     }
   },
   "active": "0093f5748d0466ae",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Operations on Data.md"
+  ]
 }
